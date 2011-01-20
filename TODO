@@ -1,0 +1,15 @@
+Add functions for these credentials:
+id (getTwitterId)
+screen_name (getUsername)
+name (getName)
+description (getProfileDescription)
+profile_image_url (getProfileImageUrl)
+url (getProfileUrl)
+lang (getLanguage)
+location (getLocation)
+time_zone (getTimezone)
+statuses_count (getTweetCount)
+followers_count (getFollowersCount)
+friends_count (getFollowingCount)
+listed_count (getListedCount)
+
