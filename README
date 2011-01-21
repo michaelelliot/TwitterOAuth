@@ -1,12 +1,12 @@
 # PHP library for working with Twitter's OAuth API
 
-* Documentation: http://wiki.github.com/thermal/twitteroauthv2/documentation
-* Source: http://github.com/abraham/twitteroauth
+* Documentation: https://github.com/thermal/TwitterOAuth/wiki/documentation
+* Source: http://github.com/abraham/TwitterOAuth
 * Twitter: http://apiwiki.twitter.com
 
 Original TwitterOAuth by Abraham Williams
 abraham@poseurte.ch - http://abrah.am - @abraham
 
-Revised TwitterOAuthV2 by Michael Elliot
+Revised TwitterOAuth by Michael Elliot
 michael@digital.com.au - @michaelelliot
 http://github.com/thermal - http://about.me/michaelelliot
